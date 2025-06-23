@@ -46892,7 +46892,7 @@ msgstr ""
 #: erpnext/public/js/call_popup/call_popup.js:169
 #: erpnext/selling/page/point_of_sale/pos_payment.js:61
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 #. Option for the 'Action on New Invoice' (Select) field in DocType 'POS
 #. Profile'
@@ -48853,7 +48853,7 @@ msgstr ""
 #: erpnext/stock/workspace/stock/stock.json
 #: erpnext/support/workspace/support/support.json
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 #. Description of a DocType
 #: erpnext/crm/doctype/crm_settings/crm_settings.json
